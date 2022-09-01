@@ -1,12 +1,6 @@
 ### Hi there 🤙🏼
 My name is Ian.
 
-Here's a little about me:
-
-- 📚 Elementary Education major @ Clemson University
-- 🔬 Undergraduate Researcher @ IDEA Lab @ Clemson University
-- 🧑‍💻 Freelance Developer @ Nice Lion Technologies LLC
-
 <!--
 **nicelion/nicelion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
