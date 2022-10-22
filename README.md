@@ -1,5 +1,5 @@
 ### Hi there 🤙🏼
-My name is Ian. I am currently an undergraduate education major with an interest and skill set in computer science.
+My name is Ian. I am currently an undergraduate education major at Clemson University with an interest and skill set in computer science.
 
 ### 🔍 I am interested in...
 - CS education
