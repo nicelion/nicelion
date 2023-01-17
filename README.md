@@ -1,6 +1,10 @@
 ### Hi there 🤙🏼
 My name is Ian. I am currently an undergraduate education major at Clemson University with an interest and skill set in computer science.
 
+I am currently an Undergraduate Researcher in the [IDEA Lab @ Clemson University](https://idealab.sites.clemson.edu/)
+
+You can view my personal website and portfolio [here](https://www.iancthompson.dev).
+
 ### 🔍 I am interested in...
 - CS education
 - Human-centered computing
