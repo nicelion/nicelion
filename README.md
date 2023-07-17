@@ -10,6 +10,15 @@ You can view my personal website and portfolio [here](https://www.iancthompson.d
 - Human-centered computing
 - Online privacy
 
+### 🧑‍💻 Contribute with me
+Here are a few projects that I am working on that you should contribute to!
+- [lofi-scanner](https://github.com/nicelion/lofi-scanner)
+    - A web app that lets you listen to public safety radio traffic and lofi beats
+- [Teachable Svelte](https://github.com/nicelion/teachable-svelte)
+    - A Svelte application to use and consume Teachable Machine models
+- [Hymns](https://github.com/nicelion/hymns)
+    - An online hymnal for a local gathering in Greenville, SC
+
 ### 🧑‍💻 Skills
 ![Skill](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Skill](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
