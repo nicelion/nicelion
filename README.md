@@ -1,7 +1,7 @@
 ### Hi there 🤙🏼
-My name is Ian. I am currently an undergraduate education major at Clemson University with an interest and skill set in computer science.
+My name is Ian. I am 3rd grade teacher who loves to program.
 
-I am currently an Undergraduate Researcher in the [IDEA Lab @ Clemson University](https://idealab.sites.clemson.edu/)
+I was an Undergraduate Researcher in the [IDEA Lab @ Clemson University](https://idealab.sites.clemson.edu/) while an elementary education major @ Clemson University.
 
 You can view my personal website and portfolio [here](https://www.iancthompson.dev).
 
